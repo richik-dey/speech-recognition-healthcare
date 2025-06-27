@@ -35,6 +35,13 @@ B.Tech – Information Technology
 Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha
 Guide: Dr. Partha Sarathi Paul  
 
+## 👨‍💻 Author
+
+**Richik Dey**  
+Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha  
+Batch: ASD-DSAIML-MAY-2025-B1  
+Mentor: Mr. Mahendra Datta
+
 ## License
 
 This repository is for academic and demonstration purposes only. 
