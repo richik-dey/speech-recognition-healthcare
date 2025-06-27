@@ -34,3 +34,18 @@ amazon-sentiment-analysis/
 ├── requirements.txt # Python dependencies
 ├── report/ # Final project report (PDF/DOCX)
 └── README.md # Project overview
+
+
+speech-recognition-healthcare/
+│
+├── README.md                 # Provided below
+├── requirements.txt          # TensorFlow, Librosa, etc.
+├── audio_classification.ipynb  # Clean Jupyter/Colab notebook
+├── dataset/                  # Optional: Audio files (if allowed to share)
+├── report/
+│   └── Project Report.pdf    # Final report (converted from your DOCX)
+├── images/
+│   ├── confusion_matrix.png
+│   ├── roc_curve.png
+│   └── model_architecture.png
+└── LICENSE                   # Optional
