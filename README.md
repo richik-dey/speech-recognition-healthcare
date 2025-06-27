@@ -36,6 +36,16 @@ Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha
 Project Type: Group
 Guide: Dr. Partha Sarathi Paul  
 
+## 👥 Team Members
+
+- **Richik Dey**  
+- [Other Group Member Names] (Add names here as applicable)
+
+**Mentor:** Dr. Partha Sarathi Paul  
+**Program:** B.Tech – Information Technology  
+**Institute:** Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha  
+
+
 ## License
 
 This repository is for academic and demonstration purposes only. 
