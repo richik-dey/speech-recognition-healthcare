@@ -1,52 +1,29 @@
-# Amazon Product Reviews Sentiment Analysis Using Machine Learning
+# Speech Recognition in Healthcare Using Deep Learning
 
-This project performs **binary sentiment classification** (Positive/Negative) on Amazon product reviews using traditional machine learning algorithms. The goal is to help businesses understand customer satisfaction based on review content.
+This project performs **multiclass audio classification** on patient-recorded respiratory sounds using deep learning. It aids in early detection of conditions like asthma, pneumonia, and bronchitis by extracting MFCC features from coughs, speech, and breathing.
 
-## 📌 Project Overview
+## Project Overview
 
-- **Domain:** Natural Language Processing (NLP)
-- **Techniques:** Text Preprocessing, TF-IDF Vectorization, Supervised Machine Learning
-- **Algorithms Used:** Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor
-- **Best Accuracy:** Random Forest – 90.37%
+- **Domain:** Deep Learning in Healthcare (Audio Processing)
+- **Techniques:** MFCC Feature Extraction, CNN, Audio Augmentation
+- **Categories Detected:** Asthma, COPD, Pneumonia, Bronchitis, Healthy
+- **Best Test Accuracy:** 86.48%
+  
+## Workflow
 
-## 🧠 Workflow
+1. Load audio dataset and extract MFCC features  
+2. Apply data augmentation (noise, pitch shift, time stretch)  
+3. Generate spectrograms  
+4. Train CNN model  
+5. Evaluate using Confusion Matrix, ROC Curve, and AUC  
+6. Analyze results and test real-time inputs
 
-1. Load and clean review data
-2. Preprocess text (remove HTML, punctuation, digits, etc.)
-3. Convert text to vectors using TF-IDF
-4. Split data into training and testing sets
-5. Train 6 ML models and evaluate performance
-6. Visualize results using Confusion Matrix and ROC-AUC
+## Tools & Libraries
 
-## 🔧 Tools & Libraries
-
-- Python (Google Colab)
+- Python (Jupyter Notebook)
+- TensorFlow
+- Librosa
 - Scikit-learn
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- WordCloud
-
-## 📁 Repository Structure
-
-amazon-sentiment-analysis/
-
-├── sentiment_analysis.ipynb # Jupyter/Colab notebook
-├── balanced.csv # Balanced dataset of reviews (optional)
-├── requirements.txt # Python dependencies
-├── report/ # Final project report (PDF/DOCX)
-└── README.md # Project overview
-
-
-speech-recognition-healthcare/
-│
-├── README.md                 # Provided below
-├── requirements.txt          # TensorFlow, Librosa, etc.
-├── audio_classification.ipynb  # Clean Jupyter/Colab notebook
-├── dataset/                  # Optional: Audio files (if allowed to share)
-├── report/
-│   └── Project Report.pdf    # Final report (converted from your DOCX)
-├── images/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── model_architecture.png
-└── LICENSE                   # Optional
+- Matplotlib
+- Seaborn
+- Keras
