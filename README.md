@@ -1,6 +1,6 @@
 # Speech Recognition in Healthcare Using Deep Learning
 
-This project performs **multiclass audio classification** on speech recognition using deep learning. It aids in early detection of conditions (asthma, pneumonia, and bronchitis) by analyzing patient-recorded respiratory sounds from coughs, speech, and breathing.
+This project performs **multiclass audio classification** on speech recognition using deep learning techniques. It aids in early detection of conditions (asthma, pneumonia, and bronchitis) by analyzing patient-recorded respiratory sounds from coughs, speech, and breathing.
 
 ## Project Overview
 
