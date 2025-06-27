@@ -27,3 +27,15 @@ This project performs **multiclass audio classification** on patient-recorded re
 - Matplotlib
 - Seaborn
 - Keras
+
+## 👨‍💻 Team Member
+
+**Richik Dey**  
+B.Tech – Information Technology  
+Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha
+Project Type: Group
+Guide: Dr. Partha Sarathi Paul  
+
+## 📄 License
+
+This repository is for academic and demonstration purposes only. 
