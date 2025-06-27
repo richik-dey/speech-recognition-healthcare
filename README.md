@@ -29,10 +29,15 @@ This project performs **binary sentiment classification** (Positive/Negative) on
 ## 📁 Repository Structure
 
 amazon-sentiment-analysis/
+
 ├── sentiment_analysis.ipynb # Jupyter/Colab notebook
+
 ├── balanced.csv # Balanced dataset of reviews (optional)
+
 ├── requirements.txt # Python dependencies
+
 ├── report/ # Final project report (PDF/DOCX)
+
 └── README.md # Project overview
 
 
