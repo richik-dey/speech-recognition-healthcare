@@ -28,7 +28,7 @@ This project performs **multiclass audio classification** on patient-recorded re
 - Seaborn
 - Keras
 
-## 👨‍💻 Team Member
+## Team Member
 
 **Richik Dey**  
 B.Tech – Information Technology  
@@ -36,6 +36,6 @@ Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha
 Project Type: Group
 Guide: Dr. Partha Sarathi Paul  
 
-## 📄 License
+## License
 
 This repository is for academic and demonstration purposes only. 
