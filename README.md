@@ -39,3 +39,13 @@ Guide: Dr. Partha Sarathi Paul
 ## License
 
 This repository is for academic and demonstration purposes only. 
+
+amazon-sentiment-analysis/
+│
+├── README.md                  ← Overview of your project
+├── requirements.txt           ← All Python dependencies
+├── sentiment_analysis.ipynb   ← Your Colab notebook (cleaned)
+├── balanced.csv               ← Dataset (if allowed to share)
+├── output/                    ← Screenshots or sample results (optional)
+├── report/                    ← Final project report PDF/DOCX (optional)
+
