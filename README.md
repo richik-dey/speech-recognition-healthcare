@@ -35,7 +35,7 @@ https://drive.google.com/drive/folders/1x_9HXbhdLNR-MNilA81Hu7QIZdO2QSt1?usp=dri
 
 **Richik Dey**    
 B.Tech – Information Technology  
-Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha    
+Kalinga Institute of Industrial Technology (KIIT-DU), Bhubaneswar, Odisha    
 Project Type: Group  
 Guide: Dr. Partha Sarathi Paul  
 
