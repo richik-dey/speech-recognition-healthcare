@@ -7,7 +7,7 @@ This project performs **multiclass audio classification** on speech recognition 
 - **Domain:** Deep Learning in Healthcare (Audio Processing)
 - **Techniques:** MFCC Feature Extraction, CNN, Audio Augmentation
 - **Categories Detected:** Asthma, COPD, Pneumonia, Bronchitis, Healthy
-- **Test Accuracy:** CNN (Convolutional Neural Network) - 86.48%
+- **Test Accuracy:** CNN (Convolutional Neural Network) – 86.48%
   
 ## Workflow
 
